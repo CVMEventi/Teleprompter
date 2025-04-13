@@ -1,7 +1,7 @@
 <template>
   <div
-      ref="element"
-      class="scroller"
+    ref="element"
+    class="scroller"
   >
     <slot/>
   </div>
